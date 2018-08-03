@@ -1,9 +1,0 @@
-*.sw?
-*.iml
-*.jar
-.idea
-.allure
-.classpath
-.project
-.settings
-*.log

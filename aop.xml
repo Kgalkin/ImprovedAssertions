@@ -1,8 +1,0 @@
-<aspectj>
-    <weaver options="-warn:none -Xlint:ignore"/>
-
-    <aspects>
-        <aspect name="aspects.AssertWatcher"/>
-        <aspect name="aspects.SoftAssertWatcher"/>
-    </aspects>
-</aspectj>
